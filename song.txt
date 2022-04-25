@@ -1,2 +1,3 @@
 some text
 text from git 
+new branch commit
